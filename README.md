@@ -13,6 +13,8 @@ This project implements a lightweight image super-resolution model using knowled
 - ✅ **Real-time Processing** up to 1920×1080
 - ✅ **Knowledge Distillation** from SwinIR teacher model
 
+## Dataset Used is uploaded in google Drive Link : https://drive.google.com/drive/folders/1S0-4pJsoOoKeGSiSCTVQCso6eTyZbri9?usp=sharing
+
 ## 🏗️ Project Structure
 
 ```
